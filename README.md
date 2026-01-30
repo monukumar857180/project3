@@ -1,2 +1,2 @@
 # new local system repo
-This is my locat repositores
+This is my locat repositores.
